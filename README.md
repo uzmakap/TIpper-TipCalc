@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The app was overall a good starting project for swift. I did not face any major difficulities with the tutorial however, when I tried to improve it and add feature I broke my app so this is my app redone.
 
 ## License
 
