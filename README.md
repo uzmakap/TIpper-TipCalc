@@ -25,6 +25,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+* [x] The user can click anywhere on the screen to make the keyboard disapear so the whole screen can be viewed
 
 ## Video Walkthrough
 
